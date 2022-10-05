@@ -1,0 +1,58 @@
+{
+  "data": {
+    "mainSearch": {
+      "edges": [
+        {
+          "node": {
+            "entity": {
+              "id": "tt0099685",
+              "titleText": {
+                "text": "Goodfellas"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "id": "tt0035948",
+              "titleText": {
+                "text": "The Good Fellows"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "id": "tt3732610",
+              "titleText": {
+                "text": "Hoodfella All In"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "id": "tt0117494",
+              "titleText": {
+                "text": "Robin Goodfellow"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "id": "tt7254624",
+              "titleText": {
+                "text": "Hoodfellaz Redux"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
